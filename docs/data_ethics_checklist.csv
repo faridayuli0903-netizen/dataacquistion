@@ -1,0 +1,10 @@
+butir_etika,status,keterangan
+1,Sudah,Mematuhi ketentuan pemakaian API Open‑Meteo
+2,Sudah,Mencantumkan sumber dan lisensi data yang dipakai
+3,Sudah,Menggunakan jeda permintaan agar tidak membebani server
+4,Sudah,Tidak mengubah isi data cuaca asli dari sumber
+5,Sudah,Data hanya dipakai untuk tugas akademik
+6,Sudah,Tidak mengambil data pribadi orang lain
+7,Sudah,Mencatat waktu pengambilan data
+8,Sudah,Kode disimpan agar bisa dijalankan ulang
+9,Sudah,Tidak menyebarkan data untuk keperluan lain
