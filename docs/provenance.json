@@ -1,0 +1,10 @@
+{
+  "nama": "Yuliana Farida",
+  "nim": "2501010372",
+  "sumber_data": "Open‑Meteo Historical Weather API",
+  "url_sumber": "https://open‑meteo.com",
+  "lokasi": "Denpasar, Bali (lintang -8.65, bujur 115.22)",
+  "waktu_akuisisi": "2026‑11‑11",
+  "periode_data": "Tahun 2024 (data harian)",
+  "lisensi": "Data untuk keperluan tugas akademik, ikuti ketentuan Open‑Meteo"
+}
