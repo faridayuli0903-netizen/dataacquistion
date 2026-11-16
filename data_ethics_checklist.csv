@@ -1,0 +1,10 @@
+no,butir_etika,status,bukti_implementasi
+1,Legalitas Sumber Data,Terpenuhi,Menggunakan MediaWiki Action API resmi berlisensi terbuka CC BY-SA 4.0.
+2,Pemeriksaan Ketentuan / robots.txt,Terpenuhi,Mematuhi Wikimedia API Etiquette dan batas rate limit resmi.
+3,Atribusi Sumber,Terpenuhi,Mencantumkan atribusi Wikipedia Bahasa Indonesia & Wikimedia Foundation.
+4,User-Agent Jujur,Terpenuhi,Menyertakan nama lengkap Yuliana Farida dan email kampus 2501010372@instiki.ac.id.
+5,Jeda Antar-Request,Terpenuhi,Menerapkan jeda waktu 1.5 detik antar kategori menggunakan time.sleep(1.5).
+6,Penanganan Timeout & Status Code,Terpenuhi,Mengatur timeout 30 detik dan pengecekan response.status_code == 200.
+7,Tanpa Data Pribadi,Terpenuhi,Hanya mengekstrak metadata artikel publik sektor pariwisata & budaya Bali.
+8,Keamanan Kredensial,Terpenuhi,Tidak menggunakan API key maupun kredensial rahasia di dalam kode notebook.
+9,Keutuhan Data Mentah,Terpenuhi,File di data/raw/ disimpan langsung dari hasil ekstraksi tanpa modifikasi manual.
